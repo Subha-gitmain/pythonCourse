@@ -7,6 +7,7 @@ public class Test {
 System.out.println("Print Yes");
 System.out.println("print No");
 System.out.println("Github to local mchn");
+System.out.println("Local to git hub");
 	}
 
 }
